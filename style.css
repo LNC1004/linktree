@@ -63,4 +63,9 @@ div a {
     line-height: 21px;
 }
 
+div a:hover {
+    background-color: #c4f82a;
+    color: #010514;
+    transition: 0.5s;
+}
 
